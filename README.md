@@ -1,11 +1,9 @@
-#
+[English Version](README_ENG.md)
 
 # 1. Ovalis_Log_Analyzer - Private
 
 - Software Solution Log 분석 툴
 - 개인 업무 자동화 프로그램
-
-#
 
 #### 목적
 
@@ -22,8 +20,6 @@
   - 항목으로는 DB Size, CPU, Memory 변화량, 기능별 계산 소요시간 및 사용 시간, 사용 유저 수, 발생 에러 Log 등
 - Daily Log는 더 세부적인 Data display와 분석 기능
 
-#
-
 ##### 개발 환경
 
 - IDE : Visual Studio 2015 Community(Visual Studio 2019 Comminity로 변경)
@@ -32,14 +28,10 @@
 - Database : SQLite
 - Framework : .NET Framework 4.5.2
 
-#
-
 # 2. FSR_Analyzer - Private
 
 - 공수 관련 통계 프로그램 개발
 - 개인 업무 자동화 프로그램
-
-#
 
 #### 목적
 
@@ -53,8 +45,6 @@
 - UI에서 주, 월, 년도별로 업무시간 통계치를 표로 표시.
 - Excel로 통계 Export 기능(보고용)
 
-#
-
 ##### 개발 환경
 
 - IDE : Visual Studio 2015 Community(Visual Studio 2019 Comminity로 변경)
@@ -63,14 +53,10 @@
 - Database : SQLite
 - Framework : .NET Framework 4.5.2
 
-#
-
 # 3. MyMoney_CSharp_WinForms - Private
 
 - 가계부 프로그램(1st version)
 - DB 및 SQL 공부 및 취미로 제작한 프로그램
-
-#
 
 #### 목적
 
@@ -88,8 +74,6 @@
   - Table 형식으로 거래내역을 보여주는 Page(Filter 기능 없음)
   - 최종적으로는 미완성. 회사 내 업무 관련 공부 목적으로 새로운 버전 제작 계획으로 UI 제작 중단
 
-#
-
 #### 개발 환경
 
 - IDE : Visual Studio 2017 Community(Visual Studio 2019 Community으로 변경)
@@ -98,14 +82,10 @@
 - Database : SQLite
 - Framework : .NET Framework 4.5.2
 
-#
-
 # 4. MyMoney_CSharp_WPF
 
 - 가계부 프로그램(2nd version)
 - 취미로 제작한 프로그램
-
-#
 
 #### 기능
 
@@ -121,8 +101,6 @@
   - DB importing 기능을 사용하는 업데이트 페이지
   - UI 만들다가 중단. 프로그래밍이 취미에서 직업이 되다보니 자연스럽게 중단
 
-#
-
 #### 개발 환경
 
 - IDE : Visual Studio 2019 Community
@@ -131,5 +109,3 @@
 - Database : Microsoft SQL Server 2017
 - Framework : .NET Framework 4.5.2, Entity Framework 6
 - API : Google API OAuth, Gmail API
-
-#
