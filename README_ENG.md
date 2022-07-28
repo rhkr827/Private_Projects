@@ -16,7 +16,7 @@
 #### Function
 
 - Display trend charts Whole or 90 days period, possible checking system status per server
-  - parameters included DB Size, CPU and Memory usage, elapsed time and usage time per functions of Ovalis, a number of users, errors etc..
+  - parameters are DB Size, CPU and Memory usage, elapsed time and usage time per functions of Ovalis, a number of users, errors etc.
 - In case daily log, possible more detailed analyzing the solution system
 
 #### Development environment
