@@ -7,11 +7,9 @@
 
 #### Goals
 
-- Maintenance Processing and Control Solution in semiconductor manufacturing processing
-  - My role was patching SW and monitoring server and DB status and if the solution was normal operating or not
-  - The solution called Ovalis(Qoniac, Current merged with KLA) configuring Windows Server and MS-SQL
+- Maintenance Processing and Control Solution called Ovalis created by Qoniac in Germany in semiconductor manufacturing processing
 - When analyzing solution log, usually using excel fuction split by text and made chart for checking status and reporting
-- To avoid repetitive tasks, this tool developed with googling
+- To avoid repetitive tasks, starting to study programming and develop the program with googling
 
 #### Function
 
@@ -36,7 +34,7 @@
 
 - Writing working time in Excel and calulate statistics manually for reporting
 - After applied ERP System, but still calculate manually
-- Due to annoying the repeated task, started to develop the program with googling
+- Due to annoying the repeated task, started to develop the program
 
 #### Function
 
