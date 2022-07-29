@@ -20,7 +20,7 @@
 - Daily Log는 더 세부적인 Data display와 분석 기능
 
 ##### 개발 환경
-
+- OS : Windows 7   
 - IDE : Visual Studio 2015 Community(Visual Studio 2019 Comminity로 변경)
 - UI : WinForms
 - Function : C#
@@ -45,7 +45,7 @@
 - Excel로 통계 Export 기능(보고용)
 
 ##### 개발 환경
-
+- OS : Windows 7
 - IDE : Visual Studio 2015 Community(Visual Studio 2019 Comminity로 변경)
 - UI : WinForms
 - Function : C#
@@ -74,7 +74,7 @@
   - 최종적으로는 미완성. 회사 내 업무 관련 공부 목적으로 새로운 버전 제작 계획으로 UI 제작 중단
 
 #### 개발 환경
-
+- OS : Windows 10
 - IDE : Visual Studio 2017 Community(Visual Studio 2019 Community으로 변경)
 - UI : WinForms
 - Function : C#
@@ -101,7 +101,7 @@
   - UI 만들다가 중단. 프로그래밍이 취미에서 직업이 되다보니 자연스럽게 중단
 
 #### 개발 환경
-
+- OS : Windows 10
 - IDE : Visual Studio 2019 Community
 - UI : WPF(DevExpress)
 - Function : C#
