@@ -1,5 +1,3 @@
-[English Version](README_ENG.md)
-
 # 1. Ovalis_Log_Analyzer - Private
 
 - Software Solution Log 분석 툴
@@ -21,7 +19,7 @@
 
 ##### 개발 환경
 - OS : Windows  
-- IDE : Visual Studio 2015 Community(Visual Studio 2019 Comminity로 변경)
+- IDE : Visual Studio 2015 Community(Visual Studio 2019 Community로 변경)
 - UI : WinForms
 - Function : C#
 - Database : SQLite
